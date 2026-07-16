@@ -1,0 +1,37 @@
+# Godot Engine
+.godot/
+import/
+*.import
+*.godot
+
+# Exports
+build/
+exports/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Logs
+*.log
+
+# Backups
+backups/
+
+# Temporary
+tmp/
+temp/
